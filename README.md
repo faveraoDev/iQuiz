@@ -26,7 +26,7 @@
   <img src="iQuiz/Assets.xcassets/Previews/preview-tela-desempenho.imageset/preview-tela-desempenho.png" width="200px" hspace="10px">
 </div>
 
-<h2>🤝 Desenvolvido por</h2>
+<h2>🧑🏻‍💻 Desenvolvido por</h2>
 <a href="https://github.com/faveraoDev" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/159573827?v=4" alt="Foto do desenvolvedor" width="200px">
 </a>
