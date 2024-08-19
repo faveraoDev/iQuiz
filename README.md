@@ -20,10 +20,10 @@
 
 <h2>👁️ Preview</h2>
 <div>
-  <img src="iQuiz/Assets.xcassets/Previews/preview-tela-inicio.imageset/preview-tela-inicio.png" width="200px" hspace="10px">
-  <img src="iQuiz/Assets.xcassets/Previews/preview-tela-acerto.imageset/preview-tela-acerto.png" width="200px" hspace="10px">
-  <img src="iQuiz/Assets.xcassets/Previews/preview-tela-erro.imageset/preview-tela-erro.png" width="200px" hspace="10px">
-  <img src="iQuiz/Assets.xcassets/Previews/preview-tela-desempenho.imageset/preview-tela-desempenho.png" width="200px" hspace="10px">
+  <img src="iQuiz/Assets.xcassets/Previews/preview-tela-inicio.imageset/preview-tela-inicio.png" width="150px">
+  <img src="iQuiz/Assets.xcassets/Previews/preview-tela-acerto.imageset/preview-tela-acerto.png" width="150px" hspace="10px">
+  <img src="iQuiz/Assets.xcassets/Previews/preview-tela-erro.imageset/preview-tela-erro.png" width="150px">
+  <img src="iQuiz/Assets.xcassets/Previews/preview-tela-desempenho.imageset/preview-tela-desempenho.png" width="150px" hspace="10px">
 </div>
 
 <h2>🧑🏻‍💻 Desenvolvido por</h2>
